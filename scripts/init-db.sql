@@ -286,4 +286,3 @@ CREATE TABLE IF NOT EXISTS sessions (
 );
 
 CREATE INDEX idx_sessions_created ON sessions(created_at);
-
